@@ -1,0 +1,27 @@
+.tittle-pg {
+	font-size: 2em;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+.edit {
+	color: #87D7A5;
+}
+
+.delete {
+	color: #525050;
+}
+
+.actions {
+	text-decoration: none;
+	font-size: medium;
+}
+
+.actions:hover{
+	text-decoration: none;
+	color: #FFF;
+}
+
+.btn-add{
+	margin-bottom: 20px;
+}
